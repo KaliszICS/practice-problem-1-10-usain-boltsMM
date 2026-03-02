@@ -82,7 +82,8 @@ class Notes {
 
 		//var.startWith(String)
 
-		//var.indexOf(String) - return the index of the FIRST occurance of the string
+		//var.
+		//Of(String) - return the index of the FIRST occurance of the string
 
 		System.out.println(bString.indexOf("ell"));
 
